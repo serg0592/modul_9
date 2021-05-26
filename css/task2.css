@@ -1,0 +1,9 @@
+p {
+    font-family: 'Cairo', sans-serif;
+    font-size: 20px;
+}
+
+code {
+    font-size: 20px;
+    border: 3px dotted #086CA2;
+}

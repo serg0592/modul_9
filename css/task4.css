@@ -1,0 +1,17 @@
+a:link, a:visited {
+    background-color: #ffffff;
+    color: rgb(0, 0, 0);
+    padding: 14px 25px;
+    margin: 100px;
+    border: 3px ridge rgb(102, 106, 110);
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
+
+
+a:hover, a:active {
+    background-color: rgb(102, 106, 110);
+    color: rgb(255, 255, 255);
+    transition-duration: 0.4s;
+}

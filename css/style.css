@@ -1,0 +1,26 @@
+li {
+    padding: 10px;    
+}
+
+a {
+    font-size: 20px;
+    color: #0084ff;
+}
+
+a:link { 
+    text-decoration: none; 
+}
+
+a:visited { 
+    text-decoration: none;
+}
+
+a:active { 
+    text-decoration: none; 
+}
+
+a:hover { 
+    font-size: 24px; /* Размер шрифта */
+    font-weight: bold; /* Жирное начертание */
+    color: #FF5C00; /* Цвет ссылки */
+   }
